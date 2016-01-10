@@ -1,2 +1,3 @@
 # sudoku
-# test
+
+Implements a sudoku solving algorithm.
