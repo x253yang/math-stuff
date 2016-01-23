@@ -1,3 +1,3 @@
-# sudoku
+# math-stuff
 
-Implements a sudoku solving algorithm.
+I put code that does various things here.
